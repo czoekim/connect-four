@@ -1,6 +1,3 @@
-# Project 5: Connect Four
+# Connect Four
 
-Edit this file to include your name, **your partner's name**, and a statement of the Honor Code.
-
-On my honor, I have not given, nor received, nor witnessed any unauthorized assistance on this work.
-Clara Zoe Kim
+This project is a completely functional game of connect four against a computer. The computer decides its next move according to the minimax algorithm with alpha-beta pruning. The program is written and run with Python 2. 
